@@ -1,0 +1,154 @@
+.topblock {
+	width:600px; 
+	height:auto; 
+	padding:15px; 
+	background-color:#1e1e1e; 
+} 
+
+.nametitle {
+	font:30px montserrat; 
+	color:#e1e1e1; 
+	font-weight:800; 
+	letter-spacing:-3px; 
+	border-bottom:2px solid #941c1c;
+}
+
+.sublyr {
+	font:14px abel; 
+	color:#e1e1e1; 
+	font-style:italic; 
+	text-transform:lowercase; 
+	margin-top:5px;
+}
+
+.toppic {
+	width:600px; 
+	height:215px; 
+	object-fit:cover;
+}
+
+.flexfirst {
+	display:flex; 
+	flex-direction:row; 
+	border-bottom:3px solid #941c1c; 
+	width: 600px;
+}
+
+.leftinfo {
+	width:200px; 
+	height:940px; 
+	background-color:#1e1e1e; 
+	display:inline-block; 
+	padding:10px; 
+	font:14px abel; 
+	text-align:justify; 
+	color:#e1e1e1; 
+	flex: 1;
+}
+
+.rightdump {
+	width:400px; 
+	height:940px; 
+	background-image:url(https://images2.imgbox.com/07/b3/1lT6CPax_o.png);
+	padding:15px; 
+	flex: 2;
+}
+
+.fullfish {
+	font: 13px montserrat;
+	font-weight: 800;
+	color: #e1e1e1;
+	background-color: #941c1c;
+	padding: 3px 5px 3px 5px;
+	border-radius: 3px 3px 3px 3px;
+	text-transform: uppercase;
+	margin-right: 5px;
+}
+
+inf {
+	font: 13px montserrat; 
+	font-weight:800; 
+	color:#e1e1e1; 
+	background-color: #941c1c; 
+	padding:3px 5px 3px 5px; 
+	border-radius:3px 3px 0px 0px; 
+	text-transform:uppercase; 
+	margin-right:5px;
+}
+
+.lyrsmall {
+	font:18px	montserrat; 
+	font-weight:800; 
+	color:#e1e1e1; 
+	text-align:center; 
+	margin-bottom:5px; 
+	text-transform:lowercase; 
+	letter-spacing:-1px;
+}
+
+.rtxtblock {
+	width:370px; 
+	height:350px; 
+	background:rgba(0, 0, 0, 0.3); 
+	font:14px abel; color:#d0d0d0; 
+	text-align:justify; overflow:auto; 
+	padding:15px; 
+	scrollbar-color: #941c1c #1e1e1e; 
+	scrollbar-width:thin
+} 
+
+.rtxtblock2 {
+	width:400px; 
+	height:270px; 
+	background:rgba(0, 0, 0, 0.3); 
+	font:14px abel; 
+	color:#d0d0d0; 
+	text-align:justify; 
+	overflow:auto; 
+	padding:15px; 
+	scrollbar-color: #941c1c #1e1e1e; 
+	scrollbar-width:thin
+} 
+
+.geninf {
+	font:13px montserrat; 
+	font-weight:800; 
+	color:#e1e1e1; 
+	border-bottom:2px solid #941c1c; 
+	padding-bottom:3px; 
+	margin-bottom:7px; 
+	margin-top:15px;
+}
+
+.redimicon {
+	width:120px; 
+	height:120px; 
+	object-fit:cover; 
+	padding:2px;
+}
+
+.flexdos {
+	display:flex; 
+	flex-direction:row; 
+	width:600px;
+}
+
+.suivirp {
+	width:430px; 
+	height:300px; 
+	background-image:url(https://images2.imgbox.com/07/b3/1lT6CPax_o.png);
+	padding:15px;
+}
+
+.rigpic {
+	width:170px; 
+	height:300px; 
+	object-fit:cover; 
+	flex: 4;
+}
+
+.streetcred {
+	font:10px abel; 
+	letter-spacing:2px; 
+	text-transform:uppercase;
+}
