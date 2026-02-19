@@ -1,0 +1,91 @@
+.topblock {
+	width:600px; 
+	height:auto; 
+	padding:15px; 
+	background-color:#1e1e1e; 
+	margin-bottom:-3px;
+}
+
+.nametitle {
+	font:30px montserrat; 
+	color:#e1e1e1; 
+	font-weight:800; 
+	letter-spacing:-3px; 
+	border-bottom:2px solid #941c1c;
+}
+
+.sublyr {
+	font:14px abel; 
+	color:#e1e1e1; 
+	font-style:italic; 
+	text-transform:lowercase; 
+	margin-top:5px;
+}
+
+.blocprin {
+	width:600px; 
+	height:auto; 
+	background-image:url(https://images2.imgbox.com/07/b3/1lT6CPax_o.png);
+	padding:15px; 
+	margin-top:-2px;
+}
+
+.underprin {
+	width:570px; 
+	height:auto; 
+	background:rgba(0, 0, 0, 0.3); 
+	font:14px abel; 
+	color:#d0d0d0; 
+	text-align:justify; 
+	overflow:auto; 
+	padding:15px;
+}
+
+inf {
+	font: 13px montserrat; 
+	font-weight:800; 
+	color:#e1e1e1; 
+	background-color: #941c1c; 
+	padding:3px 5px 3px 5px; 
+	border-radius:3px 3px 0px 0px; 
+	text-transform:uppercase; 
+	margin-right:5px;
+}
+
+.geninf {
+	font:13px montserrat; 
+	font-weight:800; 
+	color:#e1e1e1; 
+	border-bottom:2px solid #941c1c; 
+	padding-bottom:3px; 
+	margin-bottom:7px; 
+	margin-top:15px;
+}
+
+.boxlien {
+	height:120px; 
+	width: 415px; 
+	overflow:auto; 
+	padding-right:5px; 
+	padding-left:5px;
+}
+
+.iconlien {
+	width:120px; 
+	height:120px; 
+	object-fit:cover; 
+	border-radius:10px; 
+	margin-right:5px; 
+	filter:grayscale(100%);
+}
+
+.flexlien {
+	display:flex; 
+	flex-direction:row;
+}
+
+.streetcred {
+	font:10px abel; 
+	letter-spacing:2px; 
+	text-transform:uppercase;
+}
